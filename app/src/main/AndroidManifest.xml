@@ -1,5 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.glypth.toys">
+    <meta-data
+    android:name="com.nothing.glyph.toy.lottie"
+    android:resource="@raw/glypth_toys_preview"/>
 
     <application
         android:allowBackup="true"
